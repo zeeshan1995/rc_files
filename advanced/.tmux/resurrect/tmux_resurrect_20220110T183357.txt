@@ -1,0 +1,6 @@
+pane	0	1	:bash	0	:-	1	:/home/zeeshan	1	bash	:
+pane	0	2	:bash	1	:*Z	1	:/home/zeeshan/telemedicene	0	vim	:vim main.py
+pane	0	2	:bash	1	:*Z	2	:/home/zeeshan/telemedicene	1	bash	:
+window	0	1	0	:-	c55d,211x56,0,0,0
+window	0	2	1	:*Z	6d80,211x56,0,0{105x56,0,0,1,105x56,106,0,2}
+state	0	

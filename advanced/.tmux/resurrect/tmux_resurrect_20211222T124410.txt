@@ -1,0 +1,4 @@
+pane	0	1	:bash	1	:*	1	:/home/zeeshan/project/interview/cyient	0	vim	:vim fac.cpp
+pane	0	1	:bash	1	:*	2	:/home/zeeshan/project/interview/cyient	1	gedit	:gedit fac.cpp
+window	0	1	1	:*	ed7e,211x56,0,0{105x56,0,0,0,105x56,106,0,1}
+state	0	
